@@ -1,4 +1,4 @@
-#MERN-Exercise-Tracker#
+# MERN-Exercise-Tracker #
 A simple exercise tracker made using MONGO-DB , EXPRESS , REACT , NODE.JS
 
 Features of the app:
